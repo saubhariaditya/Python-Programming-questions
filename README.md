@@ -41,6 +41,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Feel free to reach out via GitHub Issues or connect with me at "saubhariaditya@gmail.com" for questions or suggestions!
 Happy coding! 🐍
-Notes:
-If you haven’t created a LICENSE file yet, you can add one via GitHub’s interface (MIT is a common choice for open-source projects).
-Adjust the folder structure (/questions, /solutions, /docs) based on how you’ve organized your repository.
