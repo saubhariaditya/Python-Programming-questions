@@ -23,8 +23,8 @@ Basic understanding of Python programming.
 Getting Started
 Clone the repository to your local machine:
 bash
-git clone https://github.com/[your-username]/[repository-name].git
-cd [repository-name]
+git clone https://github.com/saubhariaditya/Python-programming-questions.git
+cd Python-programming-questions
 Run any Python file using:
 bash
 python questions/[filename].py
@@ -39,9 +39,8 @@ Please ensure your code is well-commented and follows Python best practices.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
-Feel free to reach out via GitHub Issues or connect with me at [your-email@example.com (mailto:your-email@example.com)] for questions or suggestions!
+Feel free to reach out via GitHub Issues or connect with me at "saubhariaditya@gmail.com" for questions or suggestions!
 Happy coding! 🐍
 Notes:
-Replace [your-username], [repository-name], and [your-email@example.com] with your actual GitHub username, repository name, and contact email.
 If you haven’t created a LICENSE file yet, you can add one via GitHub’s interface (MIT is a common choice for open-source projects).
 Adjust the folder structure (/questions, /solutions, /docs) based on how you’ve organized your repository.
